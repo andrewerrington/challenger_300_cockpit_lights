@@ -5,3 +5,5 @@ DXF files for making the panels. Pilot panel requires one dual concentric potent
 switch. Also, OpenSCAD files for producing knobs.
 
 Arduino code to interface with X-Plane is included.
+
+![Glamour shot of finished panels](assembled_front_view.jpg)
